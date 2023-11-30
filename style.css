@@ -39,7 +39,7 @@
     background: #fff;
     position: absolute;
     left: 0;
-    bottom: -10px;
+    bottom: -20px;
     transition: 0.5s;
 }
 .navbar ul li:hover::after{
